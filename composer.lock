@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.342.22",
+            "version": "3.342.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "4f5276e14b6d7ee21859aaf54aa0e8f5367ba0d4"
+                "reference": "a5e9ba23ffecf1f71d8cfb177ef5cb3fbe2ecf05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/4f5276e14b6d7ee21859aaf54aa0e8f5367ba0d4",
-                "reference": "4f5276e14b6d7ee21859aaf54aa0e8f5367ba0d4",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a5e9ba23ffecf1f71d8cfb177ef5cb3fbe2ecf05",
+                "reference": "a5e9ba23ffecf1f71d8cfb177ef5cb3fbe2ecf05",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.342.22"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.342.23"
             },
-            "time": "2025-04-07T18:29:40+00:00"
+            "time": "2025-04-08T18:35:41+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.6.15",
+            "version": "5.6.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "5ad0b36612ad190c841bd55cc05fcebc299ac1d7"
+                "reference": "d4e5d887fb2cdd94e91067300393518dc0a8f03e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/5ad0b36612ad190c841bd55cc05fcebc299ac1d7",
-                "reference": "5ad0b36612ad190c841bd55cc05fcebc299ac1d7",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/d4e5d887fb2cdd94e91067300393518dc0a8f03e",
+                "reference": "d4e5d887fb2cdd94e91067300393518dc0a8f03e",
                 "shasum": ""
             },
             "require": {
@@ -972,7 +972,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-04-05T01:49:07+00:00"
+            "time": "2025-04-08T16:22:50+00:00"
         },
         {
             "name": "craftcms/commerce",
@@ -6708,16 +6708,16 @@
         },
         {
             "name": "solspace/craft-freeform",
-            "version": "5.10.6",
+            "version": "5.10.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/solspace/craft-freeform.git",
-                "reference": "5d85b06d25458223d7a38955b9e3b5bb49315409"
+                "reference": "3efed4868a9fe17fdcff02c18e587337767d1412"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/5d85b06d25458223d7a38955b9e3b5bb49315409",
-                "reference": "5d85b06d25458223d7a38955b9e3b5bb49315409",
+                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/3efed4868a9fe17fdcff02c18e587337767d1412",
+                "reference": "3efed4868a9fe17fdcff02c18e587337767d1412",
                 "shasum": ""
             },
             "require": {
@@ -6774,9 +6774,9 @@
             "description": "The most flexible and user-friendly form building plugin!",
             "support": {
                 "issues": "https://github.com/solspace/craft-freeform/issues",
-                "source": "https://github.com/solspace/craft-freeform/tree/v5.10.6"
+                "source": "https://github.com/solspace/craft-freeform/tree/v5.10.7"
             },
-            "time": "2025-04-07T19:53:47+00:00"
+            "time": "2025-04-08T16:30:52+00:00"
         },
         {
             "name": "spomky-labs/cbor-php",
