@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.342.23",
+            "version": "3.342.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "a5e9ba23ffecf1f71d8cfb177ef5cb3fbe2ecf05"
+                "reference": "cd7e1cbed4cb52c3aad31a647d1645594ff208eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a5e9ba23ffecf1f71d8cfb177ef5cb3fbe2ecf05",
-                "reference": "a5e9ba23ffecf1f71d8cfb177ef5cb3fbe2ecf05",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/cd7e1cbed4cb52c3aad31a647d1645594ff208eb",
+                "reference": "cd7e1cbed4cb52c3aad31a647d1645594ff208eb",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.342.23"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.342.24"
             },
-            "time": "2025-04-08T18:35:41+00:00"
+            "time": "2025-04-09T18:22:32+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -6305,16 +6305,16 @@
         },
         {
             "name": "putyourlightson/craft-sprig-core",
-            "version": "3.5.3",
+            "version": "3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/putyourlightson/craft-sprig-core.git",
-                "reference": "c6a1daf31d5391dc89c1a2ab4dc7e7556f7b3c60"
+                "reference": "d1f999b4cf0c527ee1d4899f85aa415f9cb89af2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/putyourlightson/craft-sprig-core/zipball/c6a1daf31d5391dc89c1a2ab4dc7e7556f7b3c60",
-                "reference": "c6a1daf31d5391dc89c1a2ab4dc7e7556f7b3c60",
+                "url": "https://api.github.com/repos/putyourlightson/craft-sprig-core/zipball/d1f999b4cf0c527ee1d4899f85aa415f9cb89af2",
+                "reference": "d1f999b4cf0c527ee1d4899f85aa415f9cb89af2",
                 "shasum": ""
             },
             "require": {
@@ -6350,7 +6350,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-19T13:53:26+00:00"
+            "time": "2025-04-09T17:20:59+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
