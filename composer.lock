@@ -4687,6 +4687,68 @@
             "time": "2025-04-04T02:36:35+00:00"
         },
         {
+            "name": "nystudio107/craft-twig-sandbox",
+            "version": "5.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nystudio107/craft-twig-sandbox.git",
+                "reference": "6f63c4340c073707353640ad9dd63a89b57f1559"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/6f63c4340c073707353640ad9dd63a89b57f1559",
+                "reference": "6f63c4340c073707353640ad9dd63a89b57f1559",
+                "shasum": ""
+            },
+            "require": {
+                "craftcms/cms": "^5.0.0",
+                "twig/twig": "^3.0.0"
+            },
+            "require-dev": {
+                "craftcms/ecs": "dev-main",
+                "craftcms/phpstan": "dev-main",
+                "craftcms/rector": "dev-main",
+                "markhuot/craft-pest-core": "^2.0.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "nystudio107\\crafttwigsandbox\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "nystudio107",
+                    "homepage": "https://nystudio107.com"
+                }
+            ],
+            "description": "Allows you to easily create a sandboxed Twig environment where you can control what tags, filters, functions, and object methods/properties are allowed",
+            "keywords": [
+                "Craft",
+                "cms",
+                "craftcms",
+                "sandbox",
+                "security",
+                "twig"
+            ],
+            "support": {
+                "docs": "https://github.com/nystudio107/craft-twig-sandbox/blob/v5/README.md",
+                "issues": "https://github.com/nystudio107/craft-twig-sandbox/issues",
+                "source": "https://github.com/nystudio107/craft-twig-sandbox"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/khalwat",
+                    "type": "github"
+                }
+            ],
+            "time": "2025-02-18T00:05:38+00:00"
+        },
+        {
             "name": "nystudio107/craft-twigpack",
             "version": "5.0.0",
             "source": {
@@ -6248,23 +6310,24 @@
         },
         {
             "name": "putyourlightson/craft-sprig",
-            "version": "3.5.2",
+            "version": "3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/putyourlightson/craft-sprig.git",
-                "reference": "5a312139592cdf30bcf0146839dca96a2fd0512a"
+                "reference": "ef53aa5afbdcbcfeb2e43bcf5e6243b3e1e602c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/putyourlightson/craft-sprig/zipball/5a312139592cdf30bcf0146839dca96a2fd0512a",
-                "reference": "5a312139592cdf30bcf0146839dca96a2fd0512a",
+                "url": "https://api.github.com/repos/putyourlightson/craft-sprig/zipball/ef53aa5afbdcbcfeb2e43bcf5e6243b3e1e602c7",
+                "reference": "ef53aa5afbdcbcfeb2e43bcf5e6243b3e1e602c7",
                 "shasum": ""
             },
             "require": {
                 "craftcms/cms": "^5.0",
                 "nystudio107/craft-code-editor": "^1.0",
+                "nystudio107/craft-twig-sandbox": "^5.0.2",
                 "php": "^8.2",
-                "putyourlightson/craft-sprig-core": "^3.5.3"
+                "putyourlightson/craft-sprig-core": "^3.6.0"
             },
             "require-dev": {
                 "craftcms/ecs": "dev-main",
@@ -6301,7 +6364,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-01-19T13:58:38+00:00"
+            "time": "2025-04-10T02:08:06+00:00"
         },
         {
             "name": "putyourlightson/craft-sprig-core",
