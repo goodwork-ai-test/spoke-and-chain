@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5ba19fda2a7316e4c8fda9a186ef3da2",
+    "content-hash": "5ff19d3ea06caf325cea144deb3d3112",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.342.27",
+            "version": "3.342.28",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "4c18299000c34ab4903100fe68721d6f26c7cdf2"
+                "reference": "16cec140483869b3d244a5995b55d5365465dc58"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/4c18299000c34ab4903100fe68721d6f26c7cdf2",
-                "reference": "4c18299000c34ab4903100fe68721d6f26c7cdf2",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/16cec140483869b3d244a5995b55d5365465dc58",
+                "reference": "16cec140483869b3d244a5995b55d5365465dc58",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.342.27"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.342.28"
             },
-            "time": "2025-04-14T18:08:09+00:00"
+            "time": "2025-04-16T18:13:32+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -6310,16 +6310,16 @@
         },
         {
             "name": "putyourlightson/craft-sprig",
-            "version": "3.6.0",
+            "version": "3.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/putyourlightson/craft-sprig.git",
-                "reference": "ef53aa5afbdcbcfeb2e43bcf5e6243b3e1e602c7"
+                "reference": "783848b0c75f8f42633dff498e004830d6ca5412"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/putyourlightson/craft-sprig/zipball/ef53aa5afbdcbcfeb2e43bcf5e6243b3e1e602c7",
-                "reference": "ef53aa5afbdcbcfeb2e43bcf5e6243b3e1e602c7",
+                "url": "https://api.github.com/repos/putyourlightson/craft-sprig/zipball/783848b0c75f8f42633dff498e004830d6ca5412",
+                "reference": "783848b0c75f8f42633dff498e004830d6ca5412",
                 "shasum": ""
             },
             "require": {
@@ -6364,7 +6364,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-04-10T02:08:06+00:00"
+            "time": "2025-04-16T14:28:30+00:00"
         },
         {
             "name": "putyourlightson/craft-sprig-core",
@@ -12093,16 +12093,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.12.23",
+            "version": "1.12.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "29201e7a743a6ab36f91394eab51889a82631428"
+                "reference": "338b92068f58d9f8035b76aed6cf2b9e5624c025"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/29201e7a743a6ab36f91394eab51889a82631428",
-                "reference": "29201e7a743a6ab36f91394eab51889a82631428",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/338b92068f58d9f8035b76aed6cf2b9e5624c025",
+                "reference": "338b92068f58d9f8035b76aed6cf2b9e5624c025",
                 "shasum": ""
             },
             "require": {
@@ -12147,7 +12147,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-03-23T14:57:32+00:00"
+            "time": "2025-04-16T13:01:53+00:00"
         },
         {
             "name": "psy/psysh",
