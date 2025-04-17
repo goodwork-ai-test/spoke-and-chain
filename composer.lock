@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.7.0",
+            "version": "5.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "45b4a1a56a82ad85d8d3442fcf914f35cd62e73b"
+                "reference": "fbf39e6df9f9eca7cbd261512946f238f681e6f0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/45b4a1a56a82ad85d8d3442fcf914f35cd62e73b",
-                "reference": "45b4a1a56a82ad85d8d3442fcf914f35cd62e73b",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/fbf39e6df9f9eca7cbd261512946f238f681e6f0",
+                "reference": "fbf39e6df9f9eca7cbd261512946f238f681e6f0",
                 "shasum": ""
             },
             "require": {
@@ -903,14 +903,11 @@
                 "twig/twig": "~3.15.0",
                 "voku/stringy": "^6.4.0",
                 "web-auth/webauthn-lib": "~4.9.0",
-                "webonyx/graphql-php": "~14.11.5",
+                "webonyx/graphql-php": "~14.11.10",
                 "yiisoft/yii2": "~2.0.52.0",
                 "yiisoft/yii2-debug": "~2.1.26.0",
                 "yiisoft/yii2-queue": "~2.3.2",
                 "yiisoft/yii2-symfonymailer": "^4.0.0"
-            },
-            "conflict": {
-                "webonyx/graphql-php": "14.11.7"
             },
             "provide": {
                 "bower-asset/inputmask": "5.0.9",
@@ -972,7 +969,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-04-15T19:50:36+00:00"
+            "time": "2025-04-17T00:11:00+00:00"
         },
         {
             "name": "craftcms/commerce",
