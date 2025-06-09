@@ -4687,16 +4687,16 @@
         },
         {
             "name": "nystudio107/craft-twig-sandbox",
-            "version": "5.0.2",
+            "version": "5.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-twig-sandbox.git",
-                "reference": "6f63c4340c073707353640ad9dd63a89b57f1559"
+                "reference": "b606a4431a316022d1ddb8d41c7be52f05786704"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/6f63c4340c073707353640ad9dd63a89b57f1559",
-                "reference": "6f63c4340c073707353640ad9dd63a89b57f1559",
+                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/b606a4431a316022d1ddb8d41c7be52f05786704",
+                "reference": "b606a4431a316022d1ddb8d41c7be52f05786704",
                 "shasum": ""
             },
             "require": {
@@ -4745,7 +4745,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-02-18T00:05:38+00:00"
+            "time": "2025-06-08T17:27:48+00:00"
         },
         {
             "name": "nystudio107/craft-twigpack",
