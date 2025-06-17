@@ -782,16 +782,16 @@
         },
         {
             "name": "craftcms/aws-s3",
-            "version": "2.2.2",
+            "version": "2.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/aws-s3.git",
-                "reference": "321967bf8a2806c6dbf167a230420449f055cefb"
+                "reference": "e7d6e36fe23623aafa042e95af9c6298a5fc6892"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/aws-s3/zipball/321967bf8a2806c6dbf167a230420449f055cefb",
-                "reference": "321967bf8a2806c6dbf167a230420449f055cefb",
+                "url": "https://api.github.com/repos/craftcms/aws-s3/zipball/e7d6e36fe23623aafa042e95af9c6298a5fc6892",
+                "reference": "e7d6e36fe23623aafa042e95af9c6298a5fc6892",
                 "shasum": ""
             },
             "require": {
@@ -842,7 +842,7 @@
                 "rss": "https://github.com/craftcms/aws-s3/commits/master.atom",
                 "source": "https://github.com/craftcms/aws-s3"
             },
-            "time": "2025-04-15T03:43:38+00:00"
+            "time": "2025-06-17T02:43:43+00:00"
         },
         {
             "name": "craftcms/cms",
