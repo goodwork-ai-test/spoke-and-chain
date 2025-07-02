@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.348.2",
+            "version": "3.349.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "6acc8e4f8b7468e604d6f0442284937398c2959a"
+                "reference": "6bc013005c2c8df186abc823754deb1bb6c0f1ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/6acc8e4f8b7468e604d6f0442284937398c2959a",
-                "reference": "6acc8e4f8b7468e604d6f0442284937398c2959a",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/6bc013005c2c8df186abc823754deb1bb6c0f1ca",
+                "reference": "6bc013005c2c8df186abc823754deb1bb6c0f1ca",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.348.2"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.349.0"
             },
-            "time": "2025-06-30T18:12:03+00:00"
+            "time": "2025-07-01T18:04:21+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.7.11",
+            "version": "5.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "175d6def25bc53ed431e7bd8a23a6c893a80f77e"
+                "reference": "54634dee804c93d3dcd43a9061f64f5308bebf0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/175d6def25bc53ed431e7bd8a23a6c893a80f77e",
-                "reference": "175d6def25bc53ed431e7bd8a23a6c893a80f77e",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/54634dee804c93d3dcd43a9061f64f5308bebf0f",
+                "reference": "54634dee804c93d3dcd43a9061f64f5308bebf0f",
                 "shasum": ""
             },
             "require": {
@@ -897,8 +897,8 @@
                 "symfony/property-access": "^7.0",
                 "symfony/property-info": "^7.0",
                 "symfony/serializer": "^6.4",
-                "symfony/var-dumper": "^5.0|^6.0",
-                "symfony/yaml": "^5.2.3|^6.0",
+                "symfony/var-dumper": "^5.0|^6.0|^7.0",
+                "symfony/yaml": "^5.2.3|^6.0|^7.0",
                 "theiconic/name-parser": "^1.2",
                 "twig/twig": "~3.15.0",
                 "voku/stringy": "^6.4.0",
@@ -927,8 +927,8 @@
                 "craftcms/ecs": "dev-main",
                 "fakerphp/faker": "^1.19.0",
                 "league/factory-muffin": "^3.3.0",
-                "phpstan/phpstan": "^1.10.56",
-                "rector/rector": "^1.2",
+                "phpstan/phpstan": "^2.1",
+                "rector/rector": "^2.0",
                 "vlucas/phpdotenv": "^5.4.1",
                 "yiisoft/yii2-redis": "^2.0"
             },
@@ -969,7 +969,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-06-24T16:52:05+00:00"
+            "time": "2025-07-01T18:35:08+00:00"
         },
         {
             "name": "craftcms/commerce",
@@ -10196,28 +10196,28 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v6.4.23",
+            "version": "v7.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "93e29e0deb5f1b2e360adfb389a20d25eb81a27b"
+                "reference": "0c3555045a46ab3cd4cc5a69d161225195230edb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/93e29e0deb5f1b2e360adfb389a20d25eb81a27b",
-                "reference": "93e29e0deb5f1b2e360adfb389a20d25eb81a27b",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/0c3555045a46ab3cd4cc5a69d161225195230edb",
+                "reference": "0c3555045a46ab3cd4cc5a69d161225195230edb",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.1",
-                "symfony/deprecation-contracts": "^2.5|^3",
+                "php": ">=8.2",
+                "symfony/deprecation-contracts": "^2.5|^3.0",
                 "symfony/polyfill-ctype": "^1.8"
             },
             "conflict": {
-                "symfony/console": "<5.4"
+                "symfony/console": "<6.4"
             },
             "require-dev": {
-                "symfony/console": "^5.4|^6.0|^7.0"
+                "symfony/console": "^6.4|^7.0"
             },
             "bin": [
                 "Resources/bin/yaml-lint"
@@ -10248,7 +10248,7 @@
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/yaml/tree/v6.4.23"
+                "source": "https://github.com/symfony/yaml/tree/v7.3.1"
             },
             "funding": [
                 {
@@ -10264,7 +10264,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-06-03T06:46:12+00:00"
+            "time": "2025-06-03T06:57:57+00:00"
         },
         {
             "name": "tecnickcom/tcpdf",
