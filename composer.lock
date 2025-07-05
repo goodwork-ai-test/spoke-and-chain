@@ -213,16 +213,16 @@
         },
         {
             "name": "bref/bref",
-            "version": "2.4.7",
+            "version": "2.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brefphp/bref.git",
-                "reference": "1c373f2bbdc0ca1e5657f80d552e63a0cd0cef65"
+                "reference": "64b07dc8ade18b914fdc215fd3fd09266e172b7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brefphp/bref/zipball/1c373f2bbdc0ca1e5657f80d552e63a0cd0cef65",
-                "reference": "1c373f2bbdc0ca1e5657f80d552e63a0cd0cef65",
+                "url": "https://api.github.com/repos/brefphp/bref/zipball/64b07dc8ade18b914fdc215fd3fd09266e172b7f",
+                "reference": "64b07dc8ade18b914fdc215fd3fd09266e172b7f",
                 "shasum": ""
             },
             "require": {
@@ -276,7 +276,7 @@
             ],
             "support": {
                 "issues": "https://github.com/brefphp/bref/issues",
-                "source": "https://github.com/brefphp/bref/tree/2.4.7"
+                "source": "https://github.com/brefphp/bref/tree/2.4.8"
             },
             "funding": [
                 {
@@ -288,7 +288,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-06-25T11:57:14+00:00"
+            "time": "2025-07-04T15:31:15+00:00"
         },
         {
             "name": "brick/math",
@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.8.1",
+            "version": "5.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "736e0e6c536817f718be669b5a0c3c16bb74fdd6"
+                "reference": "2461264a0197dce66a4289221d34dd868a41199e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/736e0e6c536817f718be669b5a0c3c16bb74fdd6",
-                "reference": "736e0e6c536817f718be669b5a0c3c16bb74fdd6",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/2461264a0197dce66a4289221d34dd868a41199e",
+                "reference": "2461264a0197dce66a4289221d34dd868a41199e",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-07-03T16:23:21+00:00"
+            "time": "2025-07-04T16:12:46+00:00"
         },
         {
             "name": "craftcms/commerce",
