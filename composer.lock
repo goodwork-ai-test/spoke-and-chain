@@ -213,16 +213,16 @@
         },
         {
             "name": "bref/bref",
-            "version": "2.4.8",
+            "version": "2.4.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brefphp/bref.git",
-                "reference": "64b07dc8ade18b914fdc215fd3fd09266e172b7f"
+                "reference": "b58007a8bcd0d467ec085a8e460885a3fd7dcd96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brefphp/bref/zipball/64b07dc8ade18b914fdc215fd3fd09266e172b7f",
-                "reference": "64b07dc8ade18b914fdc215fd3fd09266e172b7f",
+                "url": "https://api.github.com/repos/brefphp/bref/zipball/b58007a8bcd0d467ec085a8e460885a3fd7dcd96",
+                "reference": "b58007a8bcd0d467ec085a8e460885a3fd7dcd96",
                 "shasum": ""
             },
             "require": {
@@ -276,7 +276,7 @@
             ],
             "support": {
                 "issues": "https://github.com/brefphp/bref/issues",
-                "source": "https://github.com/brefphp/bref/tree/2.4.8"
+                "source": "https://github.com/brefphp/bref/tree/2.4.9"
             },
             "funding": [
                 {
@@ -288,7 +288,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-07-04T15:31:15+00:00"
+            "time": "2025-07-10T12:09:16+00:00"
         },
         {
             "name": "brick/math",
@@ -973,16 +973,16 @@
         },
         {
             "name": "craftcms/commerce",
-            "version": "5.4.1",
+            "version": "5.4.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/commerce.git",
-                "reference": "007dfb0fb20eed29f644df84e5352bd1b4786073"
+                "reference": "e648b759bbccbc268b262a8ae90a8e4a20f419be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/commerce/zipball/007dfb0fb20eed29f644df84e5352bd1b4786073",
-                "reference": "007dfb0fb20eed29f644df84e5352bd1b4786073",
+                "url": "https://api.github.com/repos/craftcms/commerce/zipball/e648b759bbccbc268b262a8ae90a8e4a20f419be",
+                "reference": "e648b759bbccbc268b262a8ae90a8e4a20f419be",
                 "shasum": ""
             },
             "require": {
@@ -1044,7 +1044,7 @@
                 "rss": "https://github.com/craftcms/commerce/releases.atom",
                 "source": "https://github.com/craftcms/commerce"
             },
-            "time": "2025-07-09T14:21:54+00:00"
+            "time": "2025-07-10T07:34:40+00:00"
         },
         {
             "name": "craftcms/flysystem",
