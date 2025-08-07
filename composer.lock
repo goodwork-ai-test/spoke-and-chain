@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.8.13",
+            "version": "5.8.13.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "bf1b0a33045290a151550bef3c5a4a3d12167cb7"
+                "reference": "372b56f32967414a162d49bfb27a7d2e2a207924"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/bf1b0a33045290a151550bef3c5a4a3d12167cb7",
-                "reference": "bf1b0a33045290a151550bef3c5a4a3d12167cb7",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/372b56f32967414a162d49bfb27a7d2e2a207924",
+                "reference": "372b56f32967414a162d49bfb27a7d2e2a207924",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-08-05T22:16:16+00:00"
+            "time": "2025-08-07T11:14:33+00:00"
         },
         {
             "name": "craftcms/commerce",
@@ -6772,16 +6772,16 @@
         },
         {
             "name": "solspace/craft-freeform",
-            "version": "5.11.8",
+            "version": "5.11.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/solspace/craft-freeform.git",
-                "reference": "15bdbefd548af93cbc30eb3fa92a3907a0494ee2"
+                "reference": "27995c0eed863de3440dbed474c6afd1f2b83e57"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/15bdbefd548af93cbc30eb3fa92a3907a0494ee2",
-                "reference": "15bdbefd548af93cbc30eb3fa92a3907a0494ee2",
+                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/27995c0eed863de3440dbed474c6afd1f2b83e57",
+                "reference": "27995c0eed863de3440dbed474c6afd1f2b83e57",
                 "shasum": ""
             },
             "require": {
@@ -6838,9 +6838,9 @@
             "description": "The most flexible and user-friendly form building plugin!",
             "support": {
                 "issues": "https://github.com/solspace/craft-freeform/issues",
-                "source": "https://github.com/solspace/craft-freeform/tree/v5.11.8"
+                "source": "https://github.com/solspace/craft-freeform/tree/v5.11.9"
             },
-            "time": "2025-08-01T03:03:35+00:00"
+            "time": "2025-08-07T04:50:13+00:00"
         },
         {
             "name": "spomky-labs/cbor-php",
