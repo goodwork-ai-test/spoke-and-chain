@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.352.7",
+            "version": "3.353.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "26d8988376984e4684c497e71722a97b79aeef4e"
+                "reference": "73a28b9be8b465af1dd02b6a1b23fca4b145c36b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/26d8988376984e4684c497e71722a97b79aeef4e",
-                "reference": "26d8988376984e4684c497e71722a97b79aeef4e",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/73a28b9be8b465af1dd02b6a1b23fca4b145c36b",
+                "reference": "73a28b9be8b465af1dd02b6a1b23fca4b145c36b",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.352.7"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.353.0"
             },
-            "time": "2025-08-12T18:29:26+00:00"
+            "time": "2025-08-13T18:05:58+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.8.14",
+            "version": "5.8.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "78e791c49bb3f5fe854e08713f5d8cf9f61688b7"
+                "reference": "1fed537fa97b9c9c169124add2a23570c3cbc4b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/78e791c49bb3f5fe854e08713f5d8cf9f61688b7",
-                "reference": "78e791c49bb3f5fe854e08713f5d8cf9f61688b7",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/1fed537fa97b9c9c169124add2a23570c3cbc4b6",
+                "reference": "1fed537fa97b9c9c169124add2a23570c3cbc4b6",
                 "shasum": ""
             },
             "require": {
@@ -866,7 +866,7 @@
                 "craftcms/server-check": "~5.0.1",
                 "creocoder/yii2-nested-sets": "~0.9.0",
                 "elvanto/litemoji": "~4.3.0",
-                "enshrined/svg-sanitize": "~0.19.0",
+                "enshrined/svg-sanitize": "~0.22.0",
                 "ext-bcmath": "*",
                 "ext-curl": "*",
                 "ext-dom": "*",
@@ -969,7 +969,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-08-13T02:07:26+00:00"
+            "time": "2025-08-13T18:19:49+00:00"
         },
         {
             "name": "craftcms/commerce",
@@ -2175,25 +2175,25 @@
         },
         {
             "name": "enshrined/svg-sanitize",
-            "version": "0.19.0",
+            "version": "0.22.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/darylldoyle/svg-sanitizer.git",
-                "reference": "e95cd17be68e45f523cbfb0fe50cdd891b0cf20e"
+                "reference": "0afa95ea74be155a7bcd6c6fb60c276c39984500"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/darylldoyle/svg-sanitizer/zipball/e95cd17be68e45f523cbfb0fe50cdd891b0cf20e",
-                "reference": "e95cd17be68e45f523cbfb0fe50cdd891b0cf20e",
+                "url": "https://api.github.com/repos/darylldoyle/svg-sanitizer/zipball/0afa95ea74be155a7bcd6c6fb60c276c39984500",
+                "reference": "0afa95ea74be155a7bcd6c6fb60c276c39984500",
                 "shasum": ""
             },
             "require": {
                 "ext-dom": "*",
                 "ext-libxml": "*",
-                "php": "^5.6 || ^7.0 || ^8.0"
+                "php": "^7.1 || ^8.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^5.7 || ^6.5 || ^8.5"
+                "phpunit/phpunit": "^6.5 || ^8.5"
             },
             "type": "library",
             "autoload": {
@@ -2214,9 +2214,9 @@
             "description": "An SVG sanitizer for PHP",
             "support": {
                 "issues": "https://github.com/darylldoyle/svg-sanitizer/issues",
-                "source": "https://github.com/darylldoyle/svg-sanitizer/tree/0.19.0"
+                "source": "https://github.com/darylldoyle/svg-sanitizer/tree/0.22.0"
             },
-            "time": "2024-06-18T10:27:15+00:00"
+            "time": "2025-08-12T10:13:48+00:00"
         },
         {
             "name": "ezyang/htmlpurifier",
@@ -12097,16 +12097,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.6.0",
+            "version": "v5.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "221b0d0fdf1369c71047ad1d18bb5880017bbc56"
+                "reference": "f103601b29efebd7ff4a1ca7b3eeea9e3336a2a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/221b0d0fdf1369c71047ad1d18bb5880017bbc56",
-                "reference": "221b0d0fdf1369c71047ad1d18bb5880017bbc56",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/f103601b29efebd7ff4a1ca7b3eeea9e3336a2a2",
+                "reference": "f103601b29efebd7ff4a1ca7b3eeea9e3336a2a2",
                 "shasum": ""
             },
             "require": {
@@ -12125,7 +12125,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "5.0-dev"
+                    "dev-master": "5.x-dev"
                 }
             },
             "autoload": {
@@ -12149,9 +12149,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.6.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.6.1"
             },
-            "time": "2025-07-27T20:03:57+00:00"
+            "time": "2025-08-13T20:13:15+00:00"
         },
         {
             "name": "phpstan/phpstan",
