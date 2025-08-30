@@ -838,16 +838,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.8.15",
+            "version": "5.8.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "1fed537fa97b9c9c169124add2a23570c3cbc4b6"
+                "reference": "3daa5c883e9a5a8a5e97ee41ef894cd07dd5c933"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/1fed537fa97b9c9c169124add2a23570c3cbc4b6",
-                "reference": "1fed537fa97b9c9c169124add2a23570c3cbc4b6",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/3daa5c883e9a5a8a5e97ee41ef894cd07dd5c933",
+                "reference": "3daa5c883e9a5a8a5e97ee41ef894cd07dd5c933",
                 "shasum": ""
             },
             "require": {
@@ -961,7 +961,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-08-13T18:19:49+00:00"
+            "time": "2025-08-30T02:34:17+00:00"
         },
         {
             "name": "craftcms/commerce",
