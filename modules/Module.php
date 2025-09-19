@@ -155,8 +155,13 @@ class Module extends \yii\base\Module
                 return $entryIdsBySectionId[$sectionId];
             }, $sectionIds);
 
+            // exit early if there are no entries to be displayed
+            if (empty($entryIds)) {
+                return;
+            }
+
             Event::on(
-                Element::class,
+                Entry::class,
                 Element::EVENT_REGISTER_SOURCES,
                 static function(RegisterElementSourcesEvent $event) use ($entryIds) {
                     $insertAfter = 2;
