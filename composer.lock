@@ -4581,16 +4581,16 @@
         },
         {
             "name": "nystudio107/craft-seomatic",
-            "version": "5.1.17",
+            "version": "5.1.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-seomatic.git",
-                "reference": "172631306d30d2ee4c40bc7372f31704c9ad399b"
+                "reference": "567dd39be372e8d4e919105bb89f449a01119fe6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/172631306d30d2ee4c40bc7372f31704c9ad399b",
-                "reference": "172631306d30d2ee4c40bc7372f31704c9ad399b",
+                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/567dd39be372e8d4e919105bb89f449a01119fe6",
+                "reference": "567dd39be372e8d4e919105bb89f449a01119fe6",
                 "shasum": ""
             },
             "require": {
@@ -4598,7 +4598,7 @@
                 "davechild/textstatistics": "^1.0.3",
                 "nystudio107/craft-code-editor": "^1.0.14",
                 "nystudio107/craft-plugin-vite": "^5.0.0",
-                "nystudio107/craft-twig-sandbox": "^5.0.3",
+                "nystudio107/craft-twig-sandbox": "^5.0.5",
                 "php": "^8.2",
                 "php-science/textrank": "^1.0.3",
                 "sunra/php-simple-html-dom-parser": "^1.5.2"
@@ -4675,7 +4675,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-08-17T22:24:55+00:00"
+            "time": "2025-10-07T03:41:58+00:00"
         },
         {
             "name": "nystudio107/craft-twig-sandbox",
