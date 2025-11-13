@@ -6840,16 +6840,16 @@
         },
         {
             "name": "spomky-labs/cbor-php",
-            "version": "3.2.0",
+            "version": "3.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Spomky-Labs/cbor-php.git",
-                "reference": "53b2adc63d126ddd062016969ce2bad5871fda6c"
+                "reference": "02964c3805fd631cff88df88a60cc5d9abc8cd38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Spomky-Labs/cbor-php/zipball/53b2adc63d126ddd062016969ce2bad5871fda6c",
-                "reference": "53b2adc63d126ddd062016969ce2bad5871fda6c",
+                "url": "https://api.github.com/repos/Spomky-Labs/cbor-php/zipball/02964c3805fd631cff88df88a60cc5d9abc8cd38",
+                "reference": "02964c3805fd631cff88df88a60cc5d9abc8cd38",
                 "shasum": ""
             },
             "require": {
@@ -6895,7 +6895,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Spomky-Labs/cbor-php/issues",
-                "source": "https://github.com/Spomky-Labs/cbor-php/tree/3.2.0"
+                "source": "https://github.com/Spomky-Labs/cbor-php/tree/3.2.1"
             },
             "funding": [
                 {
@@ -6907,7 +6907,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2025-11-07T09:45:05+00:00"
+            "time": "2025-11-13T08:23:39+00:00"
         },
         {
             "name": "spomky-labs/pki-framework",
