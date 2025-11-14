@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.359.11",
+            "version": "3.359.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "c04a8b3c40bca26da591a8ff14bcc390d26c1644"
+                "reference": "e5895be1c3a62a3fd540f9578049b88a17392987"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c04a8b3c40bca26da591a8ff14bcc390d26c1644",
-                "reference": "c04a8b3c40bca26da591a8ff14bcc390d26c1644",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/e5895be1c3a62a3fd540f9578049b88a17392987",
+                "reference": "e5895be1c3a62a3fd540f9578049b88a17392987",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.359.11"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.359.12"
             },
-            "time": "2025-11-12T19:18:02+00:00"
+            "time": "2025-11-13T19:10:00+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -6840,16 +6840,16 @@
         },
         {
             "name": "spomky-labs/cbor-php",
-            "version": "3.2.1",
+            "version": "3.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Spomky-Labs/cbor-php.git",
-                "reference": "02964c3805fd631cff88df88a60cc5d9abc8cd38"
+                "reference": "2a5fb86aacfe1004611370ead6caa2bfc88435d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Spomky-Labs/cbor-php/zipball/02964c3805fd631cff88df88a60cc5d9abc8cd38",
-                "reference": "02964c3805fd631cff88df88a60cc5d9abc8cd38",
+                "url": "https://api.github.com/repos/Spomky-Labs/cbor-php/zipball/2a5fb86aacfe1004611370ead6caa2bfc88435d0",
+                "reference": "2a5fb86aacfe1004611370ead6caa2bfc88435d0",
                 "shasum": ""
             },
             "require": {
@@ -6895,7 +6895,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Spomky-Labs/cbor-php/issues",
-                "source": "https://github.com/Spomky-Labs/cbor-php/tree/3.2.1"
+                "source": "https://github.com/Spomky-Labs/cbor-php/tree/3.2.2"
             },
             "funding": [
                 {
@@ -6907,7 +6907,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2025-11-13T08:23:39+00:00"
+            "time": "2025-11-13T13:00:34+00:00"
         },
         {
             "name": "spomky-labs/pki-framework",
@@ -12573,5 +12573,5 @@
         "php": "^8.2"
     },
     "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }
