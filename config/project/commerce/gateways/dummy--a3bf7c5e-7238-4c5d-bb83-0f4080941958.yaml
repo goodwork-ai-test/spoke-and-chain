@@ -1,7 +1,11 @@
+billingAddressCondition:
+  class: craft\commerce\elements\conditions\addresses\GatewayAddressCondition
 handle: dummy
 isFrontendEnabled: true
 name: Dummy
 paymentType: purchase
 settings: null
+shippingAddressCondition:
+  class: craft\commerce\elements\conditions\addresses\GatewayAddressCondition
 sortOrder: 99
 type: craft\commerce\gateways\Dummy
