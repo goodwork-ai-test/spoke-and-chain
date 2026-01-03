@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.369.5",
+            "version": "3.369.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "7cb482768899d510e8bcb3e9ef685d2ed0afcbfe"
+                "reference": "b1e1846a4b6593b6916764d86fc0890a31727370"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/7cb482768899d510e8bcb3e9ef685d2ed0afcbfe",
-                "reference": "7cb482768899d510e8bcb3e9ef685d2ed0afcbfe",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b1e1846a4b6593b6916764d86fc0890a31727370",
+                "reference": "b1e1846a4b6593b6916764d86fc0890a31727370",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.5"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.6"
             },
-            "time": "2025-12-30T19:07:16+00:00"
+            "time": "2026-01-02T19:09:23+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -6775,16 +6775,16 @@
         },
         {
             "name": "solspace/craft-freeform",
-            "version": "5.14.3",
+            "version": "5.14.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/solspace/craft-freeform.git",
-                "reference": "a52b6d861756710cac40d7abec6de5bc1a8efcf0"
+                "reference": "1cbec0919332acb97cc6b068ca7bf76243853367"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/a52b6d861756710cac40d7abec6de5bc1a8efcf0",
-                "reference": "a52b6d861756710cac40d7abec6de5bc1a8efcf0",
+                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/1cbec0919332acb97cc6b068ca7bf76243853367",
+                "reference": "1cbec0919332acb97cc6b068ca7bf76243853367",
                 "shasum": ""
             },
             "require": {
@@ -6842,9 +6842,9 @@
             "description": "The most flexible and user-friendly form building plugin!",
             "support": {
                 "issues": "https://github.com/solspace/craft-freeform/issues",
-                "source": "https://github.com/solspace/craft-freeform/tree/v5.14.3"
+                "source": "https://github.com/solspace/craft-freeform/tree/v5.14.4"
             },
-            "time": "2025-12-29T17:35:26+00:00"
+            "time": "2026-01-02T20:18:09+00:00"
         },
         {
             "name": "spomky-labs/cbor-php",
