@@ -774,16 +774,16 @@
         },
         {
             "name": "craftcms/aws-s3",
-            "version": "2.2.3",
+            "version": "2.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/aws-s3.git",
-                "reference": "e7d6e36fe23623aafa042e95af9c6298a5fc6892"
+                "reference": "fed1eff8b96e900601df34f49261eeaf618370a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/aws-s3/zipball/e7d6e36fe23623aafa042e95af9c6298a5fc6892",
-                "reference": "e7d6e36fe23623aafa042e95af9c6298a5fc6892",
+                "url": "https://api.github.com/repos/craftcms/aws-s3/zipball/fed1eff8b96e900601df34f49261eeaf618370a9",
+                "reference": "fed1eff8b96e900601df34f49261eeaf618370a9",
                 "shasum": ""
             },
             "require": {
@@ -834,7 +834,7 @@
                 "rss": "https://github.com/craftcms/aws-s3/commits/master.atom",
                 "source": "https://github.com/craftcms/aws-s3"
             },
-            "time": "2025-06-17T02:43:43+00:00"
+            "time": "2026-01-15T01:15:00+00:00"
         },
         {
             "name": "craftcms/cms",
@@ -6467,16 +6467,16 @@
         },
         {
             "name": "riverline/multipart-parser",
-            "version": "2.2.1",
+            "version": "2.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Riverline/multipart-parser.git",
-                "reference": "67937af1966be008f5b7ef3c45865710f30270f4"
+                "reference": "fadbb1c1f8e66f96eaa36ab8ed13cbc451c6ded7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Riverline/multipart-parser/zipball/67937af1966be008f5b7ef3c45865710f30270f4",
-                "reference": "67937af1966be008f5b7ef3c45865710f30270f4",
+                "url": "https://api.github.com/repos/Riverline/multipart-parser/zipball/fadbb1c1f8e66f96eaa36ab8ed13cbc451c6ded7",
+                "reference": "fadbb1c1f8e66f96eaa36ab8ed13cbc451c6ded7",
                 "shasum": ""
             },
             "require": {
@@ -6517,9 +6517,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Riverline/multipart-parser/issues",
-                "source": "https://github.com/Riverline/multipart-parser/tree/2.2.1"
+                "source": "https://github.com/Riverline/multipart-parser/tree/2.2.2"
             },
-            "time": "2026-01-07T12:25:13+00:00"
+            "time": "2026-01-15T11:08:16+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
