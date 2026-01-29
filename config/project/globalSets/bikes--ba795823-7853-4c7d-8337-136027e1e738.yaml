@@ -8,10 +8,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 5572edd6-3495-4a53-8f09-68bb6c53d79a # Main Image
             handle: null
-            includeInCards: false
             instructions: 'Optionally designate a bike geometry reference to be displayed on relevant product detail pages.'
             label: 'Geometry Reference'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField

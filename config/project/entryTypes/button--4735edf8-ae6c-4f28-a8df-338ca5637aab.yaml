@@ -1,6 +1,8 @@
 color: null
 fieldLayouts:
   4e683645-3a9f-4fa8-96a1-8de2cc285fe0:
+    cardView:
+      - 'layoutElement:cb77724f-26e2-4302-9975-70c6edbbf5b4'
     tabs:
       -
         elementCondition: null
@@ -13,7 +15,6 @@ fieldLayouts:
             disabled: false
             elementCondition: null
             id: null
-            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -22,7 +23,6 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
-            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -38,10 +38,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 6d832652-3b7e-417c-8a96-14965cdfd744 # Label
             handle: null
-            includeInCards: true
             instructions: null
             label: Label
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -53,10 +51,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 3815aa30-9bf2-4a2b-8d16-00fd08c68e86 # Aria Label
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Aria Label'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -68,10 +64,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: ee205f0d-9016-48b3-8c84-df68b08003cd # Entry Link
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Entry Link'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -83,10 +77,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 7f531774-b9c9-4fde-8708-762f09ef7191 # Category Link
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Category Link'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -98,10 +90,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 6443fbe4-a797-4f2a-8b81-c76619128990 # Button URL
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Button URL'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField

@@ -136,3 +136,9 @@ permissions:
   - 'viewpeerentrydrafts:9b9e7f64-d3ac-4cd8-9ac6-2dad92ba68f1' # Contact
   - 'viewpeerentrydrafts:a47082e1-a4c7-48c4-b08e-e84d5dae0956' # Search
   - 'viewpeerentrydrafts:d64cd626-dade-430d-98d1-9b9be69592c0' # Services
+  - 'changeauthorforpeerentries:21dd60d6-92a7-4e82-8884-7dbe57d73c6c' # Account
+  - 'changeauthorforpeerentries:506e9a86-f8ca-4f35-bffc-21da95813979' # Articles
+  - 'changeauthorforpeerentries:0f952e73-17b8-408c-9c37-3f07a5d16a92' # Error Pages
+  - 'changeauthorforpeerentries:2fad1c7c-c4f2-4fdf-9154-8c88bcc18db5' # Landing Pages
+  - 'changeauthorforpeerentries:97a0491d-814e-4172-811d-51096a86e67d' # Plans
+  - 'changeauthorforpeerentries:32faa6bc-a330-408a-b37a-4e8bde606b43' # Reviews
