@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.369.25",
+            "version": "3.369.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "c8f2ed505e7629be5ea1f82932d51e2eb2c79838"
+                "reference": "ad0916c6595d98f9052f60e1d7204f4740369e94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c8f2ed505e7629be5ea1f82932d51e2eb2c79838",
-                "reference": "c8f2ed505e7629be5ea1f82932d51e2eb2c79838",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/ad0916c6595d98f9052f60e1d7204f4740369e94",
+                "reference": "ad0916c6595d98f9052f60e1d7204f4740369e94",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.25"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.26"
             },
-            "time": "2026-02-02T19:06:31+00:00"
+            "time": "2026-02-03T19:16:42+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -292,16 +292,16 @@
         },
         {
             "name": "brick/math",
-            "version": "0.14.4",
+            "version": "0.14.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brick/math.git",
-                "reference": "a8b53e6cc4d3a336543f042a4dfa0e3f2f2356a4"
+                "reference": "618a8077b3c326045e10d5788ed713b341fcfe40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brick/math/zipball/a8b53e6cc4d3a336543f042a4dfa0e3f2f2356a4",
-                "reference": "a8b53e6cc4d3a336543f042a4dfa0e3f2f2356a4",
+                "url": "https://api.github.com/repos/brick/math/zipball/618a8077b3c326045e10d5788ed713b341fcfe40",
+                "reference": "618a8077b3c326045e10d5788ed713b341fcfe40",
                 "shasum": ""
             },
             "require": {
@@ -340,7 +340,7 @@
             ],
             "support": {
                 "issues": "https://github.com/brick/math/issues",
-                "source": "https://github.com/brick/math/tree/0.14.4"
+                "source": "https://github.com/brick/math/tree/0.14.5"
             },
             "funding": [
                 {
@@ -348,7 +348,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-02-02T16:57:31+00:00"
+            "time": "2026-02-03T18:06:51+00:00"
         },
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -838,16 +838,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.9.5",
+            "version": "5.9.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "a0f43797e571059945fb754ac22fae845a4ad05f"
+                "reference": "558372701d7870da4a3cda88592a21d962de0cb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/a0f43797e571059945fb754ac22fae845a4ad05f",
-                "reference": "a0f43797e571059945fb754ac22fae845a4ad05f",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/558372701d7870da4a3cda88592a21d962de0cb1",
+                "reference": "558372701d7870da4a3cda88592a21d962de0cb1",
                 "shasum": ""
             },
             "require": {
@@ -964,7 +964,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2026-01-31T18:05:38+00:00"
+            "time": "2026-02-03T16:48:37+00:00"
         },
         {
             "name": "craftcms/commerce",
