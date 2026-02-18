@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.369.35",
+            "version": "3.369.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "0f3e296342fe965271b5dd0bded4a18bdab8aba5"
+                "reference": "2a69e7df5e03be9e08f9f73fb6a8cc9dd63b59c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/0f3e296342fe965271b5dd0bded4a18bdab8aba5",
-                "reference": "0f3e296342fe965271b5dd0bded4a18bdab8aba5",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2a69e7df5e03be9e08f9f73fb6a8cc9dd63b59c0",
+                "reference": "2a69e7df5e03be9e08f9f73fb6a8cc9dd63b59c0",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.35"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.36"
             },
-            "time": "2026-02-16T19:15:41+00:00"
+            "time": "2026-02-17T19:45:01+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -838,16 +838,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.9.10",
+            "version": "5.9.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "2f5149d4d64a5dafae9db99357823655422ba77d"
+                "reference": "7882526a2a26ab6d515604b7f0a0a04eb1760e25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/2f5149d4d64a5dafae9db99357823655422ba77d",
-                "reference": "2f5149d4d64a5dafae9db99357823655422ba77d",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/7882526a2a26ab6d515604b7f0a0a04eb1760e25",
+                "reference": "7882526a2a26ab6d515604b7f0a0a04eb1760e25",
                 "shasum": ""
             },
             "require": {
@@ -964,7 +964,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2026-02-13T00:01:18+00:00"
+            "time": "2026-02-17T21:31:10+00:00"
         },
         {
             "name": "craftcms/commerce",
@@ -6365,16 +6365,16 @@
         },
         {
             "name": "putyourlightson/craft-sprig",
-            "version": "3.7.1",
+            "version": "3.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/putyourlightson/craft-sprig.git",
-                "reference": "c35c88ea91a1457b2acb8b911fc4e8daa41a2292"
+                "reference": "08a3948dfe1f6d2f0cae5f7376a278deb41f4cff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/putyourlightson/craft-sprig/zipball/c35c88ea91a1457b2acb8b911fc4e8daa41a2292",
-                "reference": "c35c88ea91a1457b2acb8b911fc4e8daa41a2292",
+                "url": "https://api.github.com/repos/putyourlightson/craft-sprig/zipball/08a3948dfe1f6d2f0cae5f7376a278deb41f4cff",
+                "reference": "08a3948dfe1f6d2f0cae5f7376a278deb41f4cff",
                 "shasum": ""
             },
             "require": {
@@ -6382,7 +6382,7 @@
                 "nystudio107/craft-code-editor": "^1.0",
                 "nystudio107/craft-twig-sandbox": "^5.0.2",
                 "php": "^8.2",
-                "putyourlightson/craft-sprig-core": "^3.7.1"
+                "putyourlightson/craft-sprig-core": "^3.7.2"
             },
             "require-dev": {
                 "craftcms/ecs": "dev-main",
@@ -6419,20 +6419,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-09-14T15:08:15+00:00"
+            "time": "2026-02-17T23:25:18+00:00"
         },
         {
             "name": "putyourlightson/craft-sprig-core",
-            "version": "3.7.1",
+            "version": "3.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/putyourlightson/craft-sprig-core.git",
-                "reference": "079e060ad4c342a651a95d5661c221ccee36b7e3"
+                "reference": "a9cf486c1adaa4ca5f08c39b5d4f70f585668774"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/putyourlightson/craft-sprig-core/zipball/079e060ad4c342a651a95d5661c221ccee36b7e3",
-                "reference": "079e060ad4c342a651a95d5661c221ccee36b7e3",
+                "url": "https://api.github.com/repos/putyourlightson/craft-sprig-core/zipball/a9cf486c1adaa4ca5f08c39b5d4f70f585668774",
+                "reference": "a9cf486c1adaa4ca5f08c39b5d4f70f585668774",
                 "shasum": ""
             },
             "require": {
@@ -6468,7 +6468,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-09-14T15:06:51+00:00"
+            "time": "2026-02-17T23:23:31+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
