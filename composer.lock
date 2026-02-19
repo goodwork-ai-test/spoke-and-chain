@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.369.36",
+            "version": "3.369.37",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "2a69e7df5e03be9e08f9f73fb6a8cc9dd63b59c0"
+                "reference": "bc599ce989b101ee630d5e1a1aeda387632df47b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2a69e7df5e03be9e08f9f73fb6a8cc9dd63b59c0",
-                "reference": "2a69e7df5e03be9e08f9f73fb6a8cc9dd63b59c0",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/bc599ce989b101ee630d5e1a1aeda387632df47b",
+                "reference": "bc599ce989b101ee630d5e1a1aeda387632df47b",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.36"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.369.37"
             },
-            "time": "2026-02-17T19:45:01+00:00"
+            "time": "2026-02-18T19:16:34+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -838,16 +838,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.9.11",
+            "version": "5.9.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "7882526a2a26ab6d515604b7f0a0a04eb1760e25"
+                "reference": "b38439ac3815a0a56c9f4cca34db5ddb1ce15dca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/7882526a2a26ab6d515604b7f0a0a04eb1760e25",
-                "reference": "7882526a2a26ab6d515604b7f0a0a04eb1760e25",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/b38439ac3815a0a56c9f4cca34db5ddb1ce15dca",
+                "reference": "b38439ac3815a0a56c9f4cca34db5ddb1ce15dca",
                 "shasum": ""
             },
             "require": {
@@ -964,20 +964,20 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2026-02-17T21:31:10+00:00"
+            "time": "2026-02-18T21:29:03+00:00"
         },
         {
             "name": "craftcms/commerce",
-            "version": "5.5.3",
+            "version": "5.5.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/commerce.git",
-                "reference": "00debfb9b25ac0885cb0193dcb6ef4aba0c9e07e"
+                "reference": "027e3346f815f2cd104b689d14342a03a27e0eb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/commerce/zipball/00debfb9b25ac0885cb0193dcb6ef4aba0c9e07e",
-                "reference": "00debfb9b25ac0885cb0193dcb6ef4aba0c9e07e",
+                "url": "https://api.github.com/repos/craftcms/commerce/zipball/027e3346f815f2cd104b689d14342a03a27e0eb7",
+                "reference": "027e3346f815f2cd104b689d14342a03a27e0eb7",
                 "shasum": ""
             },
             "require": {
@@ -1039,7 +1039,7 @@
                 "rss": "https://github.com/craftcms/commerce/releases.atom",
                 "source": "https://github.com/craftcms/commerce"
             },
-            "time": "2026-02-09T21:06:02+00:00"
+            "time": "2026-02-18T19:02:08+00:00"
         },
         {
             "name": "craftcms/flysystem",
@@ -10714,16 +10714,16 @@
         },
         {
             "name": "webmozart/assert",
-            "version": "2.1.4",
+            "version": "2.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webmozarts/assert.git",
-                "reference": "b39f1870fc7c3e9e4a26106df5053354b9260a33"
+                "reference": "79155f94852fa27e2f73b459f6503f5e87e2c188"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozarts/assert/zipball/b39f1870fc7c3e9e4a26106df5053354b9260a33",
-                "reference": "b39f1870fc7c3e9e4a26106df5053354b9260a33",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/79155f94852fa27e2f73b459f6503f5e87e2c188",
+                "reference": "79155f94852fa27e2f73b459f6503f5e87e2c188",
                 "shasum": ""
             },
             "require": {
@@ -10770,9 +10770,9 @@
             ],
             "support": {
                 "issues": "https://github.com/webmozarts/assert/issues",
-                "source": "https://github.com/webmozarts/assert/tree/2.1.4"
+                "source": "https://github.com/webmozarts/assert/tree/2.1.5"
             },
-            "time": "2026-02-17T12:17:51+00:00"
+            "time": "2026-02-18T14:09:36+00:00"
         },
         {
             "name": "webonyx/graphql-php",
