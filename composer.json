@@ -19,7 +19,7 @@
   },
   "require": {
     "php": "^8.2",
-    "bref/bref": "^2",
+    "bref/bref": "2.4.19",
     "craftcms/aws-s3": "2.3.0",
     "craftcms/yii2-dynamodb": "^2",
     "craftcms/cms": "5.9.14",
