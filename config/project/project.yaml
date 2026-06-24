@@ -1,4 +1,4 @@
-dateModified: 1781679977
+dateModified: 1782284878
 elementSources:
   craft\elements\Asset:
     -
@@ -209,7 +209,7 @@ plugins:
     edition: pro
     enabled: true
     licenseKey: SI24H20R5SQCC22FZMXL94F7
-    schemaVersion: 5.6.1.2
+    schemaVersion: 5.7.0.0
   default-dashboard:
     edition: standard
     enabled: true
